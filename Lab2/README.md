@@ -11,4 +11,4 @@ https://lab2webapprelease.azurewebsites.net
 
 ### Dokumentation wie die Releases freigegeben werden
 
-Man bekommt eine Email, muss sich dann anmelden und dann in dem Prozess auf Approve klicken.
+Man bekommt eine Email, muss sich dann anmelden und dann in dem Prozess auf Approve (30 Tage Zeit dafür per default) klicken. 
